@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "node-global-key-listener": "^0.3.0",
+    "obs-websocket-js": "^5.0.6",
+    "vtubestudio": "^3.10.1",
+    "ws": "^8.18.3"
+  }
+}
